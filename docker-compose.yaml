@@ -1,0 +1,12 @@
+services:
+  febam:
+    build: .
+    ports:
+      - 8888:8888
+    volumes:
+      - .:/project
+    deploy:
+      resources:
+        reservations:
+          devices:
+          - capabilities: [gpu]
