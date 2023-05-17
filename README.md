@@ -25,3 +25,16 @@ Stopping container/environment:
 ```
 docker-compose down
 ```
+
+
+## Citation
+```bibtex
+@INPROCEEDINGS{chartier_giguere_renaud_lina_proulx,
+    author={Chartier, Sylvain and Giguere, Gyslain and Renaud, Patrice and Lina, Jean-Marc and Proulx, Robert},
+    booktitle={2007 International Joint Conference on Neural Networks}, 
+    title={FEBAM: A Feature-Extracting Bidirectional Associative Memory}, 
+    year={2007},
+    pages={1679-1684},
+    doi={10.1109/IJCNN.2007.4371210}
+}
+```
