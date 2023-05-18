@@ -1,5 +1,5 @@
 # FEBAM
-PyTorch implementation of the paper "FEBAM: A Feature Extracting Bidirectional Associative Memory."
+PyTorch implementation of FEBAM from the paper "FEBAM: A Feature Extracting Bidirectional Associative Memory."
 
 <img src="./images/febam_architecture.jpg" width="700px"></img>
 
